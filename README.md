@@ -18,11 +18,8 @@ Coba sistem deteksi ekspresi wajah langsung di sini:
 - **OpenCV**  
 - **Streamlit** (untuk aplikasi web)  
 
-## 📸 Contoh Hasil Deteksi  
-Berikut beberapa contoh hasil dari model **Face Expression Recognition**:  
+## 📸 dokumen lengkap 
+Berikut adalah dokumentasi lengkap dari project ini :
+🔗 **[Face Expression Recognition project](https://drive.google.com/drive/u/4/folders/1Y6H3d0FKRdWZ96SGVJmRwgbhnfIp6xT_)** 
 
-| **Gambar Input** | **Prediksi Model** |
-|-----------------|------------------|
-| ![Input1](path/to/input1.jpg) | ![Output1](path/to/output1.jpg) |
-| ![Input2](path/to/input2.jpg) | ![Output2](path/to/output2.jpg) |
-| ![Input3](path/to/input3.jpg) | ![Output3](path/to/output3.jpg) |
+
