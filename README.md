@@ -4,7 +4,7 @@ Proyek ini mengembangkan **sistem pengenalan ekspresi wajah** berbasis **YOLOv8*
 
 ## 🚀 Demo Sistem  
 Coba sistem deteksi ekspresi wajah langsung di sini:  
-🔗 **[Face Expression Recognition App](https://facercg.streamlit.app/)**  
+🔗 **[Face Expression Recognition App](https://myface-expression-recognition.streamlit.app/)**  
 
 ## 📌 Fitur Utama  
 ✅ **Deteksi Real-time** – Menganalisis ekspresi wajah dalam hitungan detik.  
